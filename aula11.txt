@@ -1,0 +1,6 @@
+nome;idade;peso;altura
+Giovanny;21;75;172
+Joao;30;90;193
+Jose;25;70;165
+Maria;21;55;165
+teste;1;2;3
